@@ -21,7 +21,7 @@ Contact us: jimin372215@gmail.com (팀장 박지민)
 </br>
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=timeGradient&height=130&section=header&text=TEAM%20VISION&fontSize=40&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=FFC2EC&height=130&section=header&text=TEAM%20VISION&fontColor=FFFFFF&fontSize=40&animation=scaleIn)
 
 ```
 팀장: 박지민
