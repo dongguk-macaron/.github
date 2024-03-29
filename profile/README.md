@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🚗 TEAM MACARON 5.0 🚗
+### 🚗 TEAM MACARON 6.0 🚗
 
 
 ![header](https://capsule-render.vercel.app/api?type=Rect&&&color=timeGradient&height=200&section=header&text=About%20MACARON&fontSize=90&animation=fadeIn)
@@ -15,7 +15,7 @@
 감사합니다😊
 
 추가적으로 연락은 아래 팀장의 이메일로 부탁드립니다.
-Contact us: jimin372215@gmail.com (팀장 박지민)
+Contact us: sarangdoongie@dgu.ac.kr (팀장 김민재)
 ```
 </br>
 </br>
@@ -24,9 +24,9 @@ Contact us: jimin372215@gmail.com (팀장 박지민)
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=FFC2EC&height=130&section=header&text=TEAM%20VISION&fontColor=FFFFFF&fontSize=40&animation=scaleIn)
 
 ```
-팀장: 박지민
+팀장: 김완태
 
-팀원: 이상훈, 이진호, 한주아
+팀원: 박종명, 이세연, 홍성민
 ```
 </br>
 </br>
@@ -34,9 +34,9 @@ Contact us: jimin372215@gmail.com (팀장 박지민)
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=timeGradient&height=130&section=header&text=TEAM%20PLANNING&fontSize=40&animation=scaleIn)
 ```
-팀장: 최윤지
+팀장: 김민재
 
-팀원: 서승범, 이연석, 정윤지
+팀원: 권세빈, 신희승, 이승진
 ```
 </br>
 </br>
@@ -44,9 +44,9 @@ Contact us: jimin372215@gmail.com (팀장 박지민)
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=timeGradient&height=130&section=header&text=TEAM%20HARDWARE&fontSize=40&animation=scaleIn)
 ```
-팀장: 손현아
+팀장: 조영우
 
-팀원: 김민재, 박기령, 현동우, 양정규
+팀원: 류승우, 오혜연, 오희민, 유나경, 장도연
 ```
 
 </div>
