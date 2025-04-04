@@ -15,7 +15,7 @@
 감사합니다😊
 
 추가적으로 연락은 아래 팀장의 이메일로 부탁드립니다.
-Contact us: sarangdoongie@dgu.ac.kr (팀장 김민재)
+Contact us: heemin0617@gmail.com (팀장 오희민)
 ```
 </br>
 </br>
