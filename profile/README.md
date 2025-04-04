@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🚗 TEAM MACARON 6.0 🚗
+### 🚗 TEAM MACARON 7.0 🚗
 
 
 ![header](https://capsule-render.vercel.app/api?type=Rect&&&color=timeGradient&height=200&section=header&text=About%20MACARON&fontSize=90&animation=fadeIn)
@@ -24,9 +24,9 @@ Contact us: sarangdoongie@dgu.ac.kr (팀장 김민재)
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=FFC2EC&height=130&section=header&text=TEAM%20VISION&fontColor=FFFFFF&fontSize=40&animation=scaleIn)
 
 ```
-팀장: 김완태
+팀장: 이세연
 
-팀원: 박종명, 이세연, 홍성민
+팀원: 오희민, 이준미, 남상우
 ```
 </br>
 </br>
@@ -34,9 +34,9 @@ Contact us: sarangdoongie@dgu.ac.kr (팀장 김민재)
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=timeGradient&height=130&section=header&text=TEAM%20PLANNING&fontSize=40&animation=scaleIn)
 ```
-팀장: 김민재
+팀장: 주재영
 
-팀원: 권세빈, 신희승, 이승진
+팀원: 이민혁, 최승훈, 임정민
 ```
 </br>
 </br>
@@ -44,9 +44,9 @@ Contact us: sarangdoongie@dgu.ac.kr (팀장 김민재)
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&&&color=timeGradient&height=130&section=header&text=TEAM%20HARDWARE&fontSize=40&animation=scaleIn)
 ```
-팀장: 조영우
+팀장: 황종훈
 
-팀원: 류승우, 오혜연, 오희민, 유나경, 장도연
+팀원: 배찬영, 장현빈, 김서연, 남다현, 고동현
 ```
 
 </div>
